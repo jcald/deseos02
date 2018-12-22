@@ -1,6 +1,6 @@
 # deseos02
-ionic test 02
+## ionic4 test 02
 
-1. npm i
-2. ionic serve -c
+- npm i
+- ionic serve -c
 
